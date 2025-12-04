@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | --- |
-| [Ezarcher Kde Plasma Config](https://github.com/samwhelp/ezarcher-kde-plasma-adjustment/tree/main/prototype/main/kde-plasma-config/part/Main) |
+| [Ezarcher Kde Plasma Config](https://github.com/samwhelp/ezarcher-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
